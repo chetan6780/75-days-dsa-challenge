@@ -13,3 +13,7 @@
 
 ### Day - 2
 
+-   [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+-   [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+-   [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+-   [169. Majority Element](https://leetcode.com/problems/majority-element/)

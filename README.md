@@ -6,14 +6,21 @@
 
 ## DAY - 1
 
--   [1. Two Sum](https://leetcode.com/problems/two-sum/)
--   [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
--   [66. Plus One](https://leetcode.com/problems/plus-one/)
--   [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+-   [1. Two Sum](./Day_1/1_twoSum.md)
+-   [121. Best Time to Buy and Sell Stock](./Day_1/121_bestTimeToBuyAndSellStocks.md)
+-   [66. Plus One](./Day_1/66_plusOne.md)
+-   [283. Move Zeroes](./Day_1/283_moveZeros.md)
 
 ### Day - 2
 
--   [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
--   [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
--   [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
--   [169. Majority Element](https://leetcode.com/problems/majority-element/)
+-   [977. Squares of a Sorted Array](./Day_2/977_squareOfSortedArray.md)
+-   [122. Best Time to Buy and Sell Stock II](./Day_2/122_bestTimeToBuyAndSellStock.md)
+-   [724. Find Pivot Index](./Day_2/724_findPivotIndex.md)
+-   [169. Majority Element](./Day_2/169_mejorityElement.md)
+
+### Day - 3
+
+-   [118. Pascals triangle](./Day_3/118_pascalsTriangle.md)
+-   [26. Remove duplicates](./Day_3/26_removeDuplicateFormSortedArray.md)
+-   [56. Merge intervals](./Day_3/56_mergeIntervals.md)
+-   [15. 3-Sum](./Day_3/15_threeSum.md)

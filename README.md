@@ -24,3 +24,6 @@
 -   [26. Remove duplicates](./Day_3/26_removeDuplicateFormSortedArray.md)
 -   [56. Merge intervals](./Day_3/56_mergeIntervals.md)
 -   [15. 3-Sum](./Day_3/15_threeSum.md)
+
+### Day - 4
+

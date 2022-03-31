@@ -27,3 +27,7 @@
 
 ### Day - 4
 
+-   [380. Insert and delete O(1)](./Day_4/380_insertAndDeleteO_1.md)
+-   [560. Subarray sum equals k](./Day_4/560_subarraySumEqualsK.md)
+-   [31. Next permutation](./Day_4/31_nextPermutation.md)
+-   [11. Container With Most Water](./Day_4/11_containerWithMostWater.md)

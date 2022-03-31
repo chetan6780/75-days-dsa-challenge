@@ -1,18 +1,10 @@
-#include <bits/stdc++.h>
-using namespace std;
+# [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (Medium)
 
-int main()
-{
-    return 0;
-}
+### Solution
 
-class Solution {
-public:
-    int splitArray(vector<int>& nums, int m)
-    {
-    }
-};
+### Code
 
+```cpp
 class Solution {
 public:
     int maxArea(vector<int>& height)
@@ -30,3 +22,4 @@ public:
         return maxWater;
     }
 };
+```

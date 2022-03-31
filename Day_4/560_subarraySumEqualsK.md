@@ -104,7 +104,7 @@ public:
 -   When we search for `14` in presum array we find it on `2` and `4` index. The logic here is that `14 + 7 = 21` so the array between indexes
     -> `3` to `7` `(-2 2 1 4 2)`
     -> `5` to `7` both have sum 7 `( 1 4 2)`
-    The sum is still `7` in this case because there are negative numbers that balance up for. So if we consider `count++` we will have one count less as we will consider only array `5` to `7` but now we know that `14` sum occured earlier too so even that needs to be added up so `map.get(sum-k)`.
+    The sum is still `7` in this case because there are negative numbers that balance up for. So if we consider `count++` we will have one count less as we will consider only array `5` to `7` but now we know that `14` sum occurred earlier too so even that needs to be added up so `map.get(sum-k)`.
 
 -   Another way of understanding this is that if there is increase of `k` in the presum array we have found a new subarray so that is why we look for `currentSum-k`.
 -   **TC: O(n)**

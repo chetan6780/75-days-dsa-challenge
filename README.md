@@ -31,3 +31,9 @@
 -   [560. Subarray sum equals k](./Day_4/560_subarraySumEqualsK.md)
 -   [31. Next permutation](./Day_4/31_nextPermutation.md)
 -   [11. Container With Most Water](./Day_4/11_containerWithMostWater.md)
+
+### Day - 5
+
+-   [54. Spiral Matrix](./Day_5/54_spiralMatrix.md)
+-   [48. Rotate Image](./Day_5/48_rotateImage.md)
+-   [79. Word Search](./Day_5/79_wordSearch.md)

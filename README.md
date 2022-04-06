@@ -37,3 +37,5 @@
 -   [54. Spiral Matrix](./Day_5/54_spiralMatrix.md)
 -   [48. Rotate Image](./Day_5/48_rotateImage.md)
 -   [79. Word Search](./Day_5/79_wordSearch.md)
+
+### Day - 6

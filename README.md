@@ -41,4 +41,6 @@
 ### Day - 6
 
 -   [16. 3Sum Closest](./Day_6/16_3SumClosest.md)
-
+-   [289. Game of Life](./Day_6/289_gameOfLife.md)
+-   [1010. Pairs of Songs With Total Durations Divisible by 60](./Day_6/1010_pairsOfSongsWithTotalDurationDivisibleBy60.md)
+-   [18. 4Sum](./Day_6/18_4Sum.md)

@@ -39,3 +39,6 @@
 -   [79. Word Search](./Day_5/79_wordSearch.md)
 
 ### Day - 6
+
+-   [16. 3Sum Closest](./Day_6/16_3SumClosest.md)
+

@@ -52,4 +52,6 @@
 -   [1423. Maximum Points You Can Obtain from Cards](./Day_7/1423_maximumPointsYouCanObtainFromCards.md)
 
 ### Day - 8
-- []
+
+-   [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./Day_8/1465_maximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.md)
+-

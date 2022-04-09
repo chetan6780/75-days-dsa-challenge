@@ -54,4 +54,6 @@
 ### Day - 8
 
 -   [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./Day_8/1465_maximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.md)
--
+- [695. Max Area of Island](./Day_8/695_maxAreaOfIsland.md)
+- [442. Find All Duplicates in an Array](./Day_8/442_findAllDuplicatesInAnArray.md)
+- [532. K-diff Pairs in an Array](./Day_8/532_kdiffPairsInAnArray.md)

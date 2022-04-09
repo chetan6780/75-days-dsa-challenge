@@ -44,3 +44,12 @@
 -   [289. Game of Life](./Day_6/289_gameOfLife.md)
 -   [1010. Pairs of Songs With Total Durations Divisible by 60](./Day_6/1010_pairsOfSongsWithTotalDurationDivisibleBy60.md)
 -   [18. 4Sum](./Day_6/18_4Sum.md)
+
+### Day - 7
+
+-   [39. Combination Sum](./Day_7/39_combinationSum.md)
+-   [45. Jump Game II](./Day_7/45_jumpGameII.md)
+-   [1423. Maximum Points You Can Obtain from Cards](./Day_7/1423_maximumPointsYouCanObtainFromCards.md)
+
+### Day - 8
+- []

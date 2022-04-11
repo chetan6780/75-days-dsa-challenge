@@ -63,3 +63,8 @@
 -   [1169. Invalid Transactions](./Day_9/1169_invalidTransactions.md)
 -   [55. Jump Game](./Day_9/55_jumpGame.md)
 -   [974. Subarray Sums Divisible by K](./Day_9/974_subarraySumsDivisibleByK.md)
+
+### Day - 10
+
+-   [123. Best Time to Buy and Sell Stock III](./Day_10/123_bestTimeToBuyAndSellStockIII.md)
+- [41. First Missing Positive](./Day_10/41_firstMissingPositive.md)

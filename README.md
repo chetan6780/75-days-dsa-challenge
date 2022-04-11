@@ -54,6 +54,12 @@
 ### Day - 8
 
 -   [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./Day_8/1465_maximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.md)
-- [695. Max Area of Island](./Day_8/695_maxAreaOfIsland.md)
-- [442. Find All Duplicates in an Array](./Day_8/442_findAllDuplicatesInAnArray.md)
-- [532. K-diff Pairs in an Array](./Day_8/532_kdiffPairsInAnArray.md)
+-   [695. Max Area of Island](./Day_8/695_maxAreaOfIsland.md)
+-   [442. Find All Duplicates in an Array](./Day_8/442_findAllDuplicatesInAnArray.md)
+-   [532. K-diff Pairs in an Array](./Day_8/532_kdiffPairsInAnArray.md)
+
+### Day - 9
+
+-   [1169. Invalid Transactions](./Day_9/1169_invalidTransactions.md)
+-   [55. Jump Game](./Day_9/55_jumpGame.md)
+-   [974. Subarray Sums Divisible by K](./Day_9/974_subarraySumsDivisibleByK.md)

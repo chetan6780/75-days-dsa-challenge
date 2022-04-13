@@ -67,4 +67,5 @@
 ### Day - 10
 
 -   [123. Best Time to Buy and Sell Stock III](./Day_10/123_bestTimeToBuyAndSellStockIII.md)
-- [41. First Missing Positive](./Day_10/41_firstMissingPositive.md)
+-   [41. First Missing Positive](./Day_10/41_firstMissingPositive.md)
+-   [84. Largest Rectangle in Histogram](./Day_10/84_largestRectangleInHistogram.md)

@@ -84,3 +84,15 @@
 
 -   [424. Longest Repeating Character Replacement](./Day_13/424_longestRepeatingCharacterReplacement.md)
 -   [992. Subarrays with K Different Integers](./Day_13/992_subarraysWithKDifferentIntegers.md)
+
+### Day - 14
+
+-   [1351. Count Negative Numbers in a Sorted Matrix](./Day_14/1351_countNegativeNumbersInASortedMatrix.md)]
+-   [852. Peak Index in a Mountain Array](./Day_14/852_peakIndexInAMountainArray.md)
+-   [981. Time Based Key-Value Store](./Day_14/981_timeBasedKeyValueStore.md)
+-   [33. Search in Rotated Sorted Array](./Day_14/33_searchInRotatedSortedArray.md)
+
+### Day - 15
+
+-   [50. Pow(x, n)](./Day_15/50_pow.md)
+-   [74. Search a 2D Matrix](./Day_15/74_search2DMatrix.md)

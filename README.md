@@ -4,7 +4,7 @@
 
 ## [75 days challenge questions sheet](https://docs.google.com/spreadsheets/d/1SBx6ifpBn3TVCQWSzK9ka26glyNTyS-fqn6bfOVaXFE/edit#gid=0)
 
-## DAY - 1
+### Day - 1
 
 -   [1. Two Sum](./Day_1/1_twoSum.md)
 -   [121. Best Time to Buy and Sell Stock](./Day_1/121_bestTimeToBuyAndSellStocks.md)
@@ -69,3 +69,13 @@
 -   [123. Best Time to Buy and Sell Stock III](./Day_10/123_bestTimeToBuyAndSellStockIII.md)
 -   [41. First Missing Positive](./Day_10/41_firstMissingPositive.md)
 -   [84. Largest Rectangle in Histogram](./Day_10/84_largestRectangleInHistogram.md)
+
+### Day - 11
+
+-   [381. Insert Delete GetRandom O(1) - Duplicates allowed](./Day_11/381_insertDeleteGetRandomO_1.md)
+-   [1499. Max Value of Equation](./Day_11/1499_maxValueOfEquation.md)
+
+### Day - 12
+
+-   [763. Partition Labels](./Day_12/763_partitionLabels.md)
+-   [75. Sort Colors](./Day_12/75_sortColors.md)

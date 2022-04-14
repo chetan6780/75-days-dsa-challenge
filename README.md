@@ -79,3 +79,8 @@
 
 -   [763. Partition Labels](./Day_12/763_partitionLabels.md)
 -   [75. Sort Colors](./Day_12/75_sortColors.md)
+
+### Day - 13
+
+-   [424. Longest Repeating Character Replacement](./Day_13/424_longestRepeatingCharacterReplacement.md)
+-   [992. Subarrays with K Different Integers](./Day_13/992_subarraysWithKDifferentIntegers.md)

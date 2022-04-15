@@ -95,4 +95,6 @@
 ### Day - 15
 
 -   [50. Pow(x, n)](./Day_15/50_pow.md)
+-   [34. Find First and Last Position of Element in Sorted Array](./Day_15/34_findFirstAndLastPositionOfElementInSortedArray.md)
+-   [162. Find Peak Element](./Day_15/162_findPeakElement.md)
 -   [74. Search a 2D Matrix](./Day_15/74_search2DMatrix.md)

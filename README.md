@@ -98,3 +98,10 @@
 -   [34. Find First and Last Position of Element in Sorted Array](./Day_15/34_findFirstAndLastPositionOfElementInSortedArray.md)
 -   [162. Find Peak Element](./Day_15/162_findPeakElement.md)
 -   [74. Search a 2D Matrix](./Day_15/74_search2DMatrix.md)
+
+### Day - 16
+
+-   [29. Divide Two Integers](./Day_16/29_divideTwoIntegers.md)
+-   [1011. Capacity To Ship Packages Within D Days](./Day_16/1011_capacityToShipPackagesWithinDDays.md)
+-   [1760. Minimum Limit of Balls in a Bag](./Day_16/1760_minimumLimitOfBallsInABag.md)
+-   [4. Median of Two Sorted Arrays](./Day_16/4_medianOfTwoSortedArrays.md)

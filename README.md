@@ -105,3 +105,9 @@
 -   [1011. Capacity To Ship Packages Within D Days](./Day_16/1011_capacityToShipPackagesWithinDDays.md)
 -   [1760. Minimum Limit of Balls in a Bag](./Day_16/1760_minimumLimitOfBallsInABag.md)
 -   [4. Median of Two Sorted Arrays](./Day_16/4_medianOfTwoSortedArrays.md)
+
+### Day - 18
+
+-   [Introduction](https://www.geeksforgeeks.org/hashing-set-1-introduction/)
+-   [Open Addressing](https://www.geeksforgeeks.org/hashing-set-3-open-addressing/)
+-   [Collision handling](https://www.geeksforgeeks.org/hashing-set-2-separate-chaining/)

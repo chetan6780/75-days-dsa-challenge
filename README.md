@@ -128,3 +128,10 @@
 -   [876. Middle of the Linked List](./Day_20/876_middleOfTheLinkedList.md)
 -   [21. Merge Two Sorted Lists](./Day_20/21_mergeTwoSortedLists.md)
 -   [19. Remove Nth Node From End of List](./Day_20/19_removeNthNodeFromEndOfList.md)
+
+### Day - 21
+
+-   [237. Delete Node in a Linked List](./Day_21/237_deleteNodeInALinkedList.md)
+-   [445. Add Two Numbers II](./Day_21/445_addTwoNumbersII.md)
+-   [160. Intersection of Two Linked Lists](./Day_21/160_intersectionOfTwoLinkedLists.md)
+-   [234. Palindrome Linked List](./Day_21/234_palindromeLinkedList.md)

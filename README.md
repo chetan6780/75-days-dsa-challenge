@@ -121,3 +121,10 @@
 -   [953. Verifying an Alien Dictionary](./Day_19/953_verifyingAnAlienDictionary.md)
 -   [706. Design HashMap](./Day_19/706_designHashMap.md)
 -   [347. Top K Frequent Elements](./Day_19/347_topKFrequentElements.md)
+
+### Day - 20
+
+-   [206. Reverse Linked List](./Day_20/206_reverseLinkedList.md)
+-   [876. Middle of the Linked List](./Day_20/876_middleOfTheLinkedList.md)
+-   [21. Merge Two Sorted Lists](./Day_20/21_mergeTwoSortedLists.md)
+-   [19. Remove Nth Node From End of List](./Day_20/19_removeNthNodeFromEndOfList.md)

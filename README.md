@@ -141,3 +141,9 @@
 -   [25. Reverse Nodes in k-Group](./Day_22/25_reverseNodesInKGroup.md)
 -   [142. Linked List Cycle II](./Day_22/142_linkedListCycleII.md)
 -   [61. Rotate List](./Day_22/61_rotateList.md)
+
+### Day - 23
+
+-   [430. Flatten a Multilevel Doubly Linked List](./Day_23/430_flattenAMultilevelDoublyLinkedList.md)
+-   [138. Copy List with Random Pointer](./Day_23/138_copyListWithRandomPointer.md)
+-   [287. Find the Duplicate Number](./Day_23/287_findTheDuplicateNumber.md)

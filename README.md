@@ -106,8 +106,18 @@
 -   [1760. Minimum Limit of Balls in a Bag](./Day_16/1760_minimumLimitOfBallsInABag.md)
 -   [4. Median of Two Sorted Arrays](./Day_16/4_medianOfTwoSortedArrays.md)
 
+### Day - 17
+
+<!-- TODO: Solve day 17 questions -->
+
 ### Day - 18
 
 -   [Introduction](https://www.geeksforgeeks.org/hashing-set-1-introduction/)
 -   [Open Addressing](https://www.geeksforgeeks.org/hashing-set-3-open-addressing/)
 -   [Collision handling](https://www.geeksforgeeks.org/hashing-set-2-separate-chaining/)
+
+### Day - 19
+
+-   [953. Verifying an Alien Dictionary](./Day_19/953_verifyingAnAlienDictionary.md)
+-   [706. Design HashMap](./Day_19/706_designHashMap.md)
+-   [347. Top K Frequent Elements](./Day_19/347_topKFrequentElements.md)

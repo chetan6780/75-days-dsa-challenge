@@ -147,3 +147,10 @@
 -   [430. Flatten a Multilevel Doubly Linked List](./Day_23/430_flattenAMultilevelDoublyLinkedList.md)
 -   [138. Copy List with Random Pointer](./Day_23/138_copyListWithRandomPointer.md)
 -   [287. Find the Duplicate Number](./Day_23/287_findTheDuplicateNumber.md)
+
+### Day - 24
+
+-   [496. Next Greater Element I](./Day_24/496_nextGreaterElementI.md)
+-   [503. Next Greater Element II](./Day_24/503_nextGreaterElementII.md)
+-   [225. Implement Stack using Queues](./Day_24/225_implementStackUsingQueues.md)
+-   [232. Implement Queue using Stacks](./Day_24/232_implementQueueUsingStacks.md)

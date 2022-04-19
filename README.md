@@ -154,3 +154,14 @@
 -   [503. Next Greater Element II](./Day_24/503_nextGreaterElementII.md)
 -   [225. Implement Stack using Queues](./Day_24/225_implementStackUsingQueues.md)
 -   [232. Implement Queue using Stacks](./Day_24/232_implementQueueUsingStacks.md)
+
+### Day - 25
+
+-   [20. Valid Parentheses](./Day_25/20_validParentheses.md)
+-   [155. Min Stack](./Day_25/155_minStack.md)
+-   [Help Classmates](./Day_25/000_helpClassmates.md)
+-   [146. LRU Cache](./Day_25/146_lruCache.md)
+
+### Day - 26
+
+-   [84. Largest Rectangle in Histogram](./Day_26/84_largestRectangleInHistogram.md)

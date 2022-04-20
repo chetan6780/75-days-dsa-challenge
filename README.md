@@ -165,3 +165,4 @@
 ### Day - 26
 
 -   [84. Largest Rectangle in Histogram](./Day_26/84_largestRectangleInHistogram.md)
+-   [543. Diameter of Binary Tree]

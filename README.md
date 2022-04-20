@@ -165,4 +165,5 @@
 ### Day - 26
 
 -   [84. Largest Rectangle in Histogram](./Day_26/84_largestRectangleInHistogram.md)
--   [543. Diameter of Binary Tree]
+-   [239. Sliding Window Maximum](./Day_26/239_slidingWindowMaximum.md)
+-   [460. LFU Cache](./Day_26/460_lfuCache.md)

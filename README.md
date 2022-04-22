@@ -191,3 +191,10 @@
 -   [235. Lowest Common Ancestor of a Binary Search Tree](./Day_29/235_lowestCommonAncestorOfABinarySearchTree.md)
 -   [112. Path Sum](./Day_29/112_pathSum.md)
 -   [530. Minimum Absolute Difference in BST](./Day_29/530_minimumAbsoluteDifferenceInBST.md)
+
+### Day - 30
+
+-   [404. Sum of Left Leaves](./Day_30/404_sumOfLeftLeaves.md)
+-   [110. Balanced Binary Tree](./Day_30/110_balancedBinaryTree.md)
+-   [662. Maximum Width of Binary Tree](./Day_30/662_maximumWidthOfBinaryTree.md)
+-   [1448. Count Good Nodes in Binary Tree](./Day_30/1448_countGoodNodesInBinaryTree.md)

@@ -110,6 +110,9 @@
 
 <!-- TODO: Solve day 17 questions -->
 
+-   [315. Count of Smaller Numbers After Self](./Day_17/315_countOfSmallerNumbersAfterSelf.md)
+-   [410. Split Array Largest Sum](./Day_17/410_splitArrayLargestSum.md)
+
 ### Day - 18
 
 -   [Introduction](https://www.geeksforgeeks.org/hashing-set-1-introduction/)
@@ -180,4 +183,11 @@
 -   [108. Convert Sorted Array to Binary Search Tree](./Day_28/108_convertSortedArrayToBinarySearchTree.md)
 -   [617. Merge Two Binary Trees](./Day_28/617_mergeTwoBinaryTrees.md)
 -   [104. Maximum Depth of Binary Tree](./Day_28/104_maximumDepthOfBinaryTree.md)
-- [257. Binary Tree Paths](./Day_28/257_binaryTreePaths.md)
+-   [257. Binary Tree Paths](./Day_28/257_binaryTreePaths.md)
+
+### Day - 29
+
+-   [100. Same Tree](./Day_29/100_sameTree.md)
+-   [235. Lowest Common Ancestor of a Binary Search Tree](./Day_29/235_lowestCommonAncestorOfABinarySearchTree.md)
+-   [112. Path Sum](./Day_29/112_pathSum.md)
+-   [530. Minimum Absolute Difference in BST](./Day_29/530_minimumAbsoluteDifferenceInBST.md)

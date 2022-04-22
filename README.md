@@ -170,7 +170,14 @@
 
 ### Day - 27
 
-- [543. Diameter of Binary Tree](./Day_27/543_diameterOfBinaryTree.md)
-- [101. Symmetric Tree](./Day_27/101_symmetricTree.md)
-- [226. Invert Binary Tree](./Day_27/226_invertBinaryTree.md)
-- [572. Subtree of Another Tree](./Day_27/572_subtreeOfAnotherTree.md)
+-   [543. Diameter of Binary Tree](./Day_27/543_diameterOfBinaryTree.md)
+-   [101. Symmetric Tree](./Day_27/101_symmetricTree.md)
+-   [226. Invert Binary Tree](./Day_27/226_invertBinaryTree.md)
+-   [572. Subtree of Another Tree](./Day_27/572_subtreeOfAnotherTree.md)
+
+### Day - 28
+
+-   [108. Convert Sorted Array to Binary Search Tree](./Day_28/108_convertSortedArrayToBinarySearchTree.md)
+-   [617. Merge Two Binary Trees](./Day_28/617_mergeTwoBinaryTrees.md)
+-   [104. Maximum Depth of Binary Tree](./Day_28/104_maximumDepthOfBinaryTree.md)
+- [257. Binary Tree Paths](./Day_28/257_binaryTreePaths.md)

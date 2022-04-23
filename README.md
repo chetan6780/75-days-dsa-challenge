@@ -198,3 +198,10 @@
 -   [110. Balanced Binary Tree](./Day_30/110_balancedBinaryTree.md)
 -   [662. Maximum Width of Binary Tree](./Day_30/662_maximumWidthOfBinaryTree.md)
 -   [1448. Count Good Nodes in Binary Tree](./Day_30/1448_countGoodNodesInBinaryTree.md)
+
+### Day - 31
+
+-   [236. Lowest Common Ancestor of a Binary Tree](./Day_31/236_lowestCommonAncestorOfABinaryTree.md)
+-   [199. Binary Tree Right Side View](./Day_31/199_binaryTreeRightSideView.md)
+-   [863. All Nodes Distance K in Binary Tree](./Day_31/863_allNodesDistanceKInBinaryTree.md)
+-   [297. Serialize and Deserialize Binary Tree](./Day_31/297_serializeAndDeserializeBinaryTree.md)

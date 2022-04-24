@@ -4,6 +4,12 @@
 
 ## [75 days challenge questions sheet](https://docs.google.com/spreadsheets/d/1SBx6ifpBn3TVCQWSzK9ka26glyNTyS-fqn6bfOVaXFE/edit#gid=0)
 
+---
+
+# Array
+
+---
+
 ### Day - 1
 
 -   [1. Two Sum](./Day_1/1_twoSum.md)
@@ -75,6 +81,12 @@
 -   [381. Insert Delete GetRandom O(1) - Duplicates allowed](./Day_11/381_insertDeleteGetRandomO_1.md)
 -   [1499. Max Value of Equation](./Day_11/1499_maxValueOfEquation.md)
 
+---
+
+# Two pointer & Sliding window
+
+---
+
 ### Day - 12
 
 -   [763. Partition Labels](./Day_12/763_partitionLabels.md)
@@ -84,6 +96,12 @@
 
 -   [424. Longest Repeating Character Replacement](./Day_13/424_longestRepeatingCharacterReplacement.md)
 -   [992. Subarrays with K Different Integers](./Day_13/992_subarraysWithKDifferentIntegers.md)
+
+---
+
+# Binary Search
+
+---
 
 ### Day - 14
 
@@ -113,6 +131,12 @@
 -   [315. Count of Smaller Numbers After Self](./Day_17/315_countOfSmallerNumbersAfterSelf.md)
 -   [410. Split Array Largest Sum](./Day_17/410_splitArrayLargestSum.md)
 
+---
+
+# Hashing
+
+---
+
 ### Day - 18
 
 -   [Introduction](https://www.geeksforgeeks.org/hashing-set-1-introduction/)
@@ -124,6 +148,12 @@
 -   [953. Verifying an Alien Dictionary](./Day_19/953_verifyingAnAlienDictionary.md)
 -   [706. Design HashMap](./Day_19/706_designHashMap.md)
 -   [347. Top K Frequent Elements](./Day_19/347_topKFrequentElements.md)
+
+---
+
+# linked list
+
+---
 
 ### Day - 20
 
@@ -151,6 +181,12 @@
 -   [138. Copy List with Random Pointer](./Day_23/138_copyListWithRandomPointer.md)
 -   [287. Find the Duplicate Number](./Day_23/287_findTheDuplicateNumber.md)
 
+---
+
+# Stack
+
+---
+
 ### Day - 24
 
 -   [496. Next Greater Element I](./Day_24/496_nextGreaterElementI.md)
@@ -170,6 +206,12 @@
 -   [84. Largest Rectangle in Histogram](./Day_26/84_largestRectangleInHistogram.md)
 -   [239. Sliding Window Maximum](./Day_26/239_slidingWindowMaximum.md)
 -   [460. LFU Cache](./Day_26/460_lfuCache.md)
+
+---
+
+# Tree
+
+---
 
 ### Day - 27
 
@@ -212,3 +254,11 @@
 -   [103. Binary Tree Zigzag Level Order Traversal](./Day_32/103_binaryTreeZigzagLevelOrderTraversal.md)
 -   [173. Binary Search Tree Iterator](./Day_32/173_binarySearchTreeIterator.md)
 -   [437. Path Sum III](./Day_32/437_pathSumIII.md)
+
+### Day - 33
+
+---
+
+# Binary Search Tree
+
+---

@@ -8,8 +8,6 @@
 
 # Array
 
----
-
 ### Day - 1
 
 -   [1. Two Sum](./Day_1/1_twoSum.md)
@@ -85,8 +83,6 @@
 
 # Two pointer & Sliding window
 
----
-
 ### Day - 12
 
 -   [763. Partition Labels](./Day_12/763_partitionLabels.md)
@@ -100,8 +96,6 @@
 ---
 
 # Binary Search
-
----
 
 ### Day - 14
 
@@ -135,8 +129,6 @@
 
 # Hashing
 
----
-
 ### Day - 18
 
 -   [Introduction](https://www.geeksforgeeks.org/hashing-set-1-introduction/)
@@ -152,8 +144,6 @@
 ---
 
 # linked list
-
----
 
 ### Day - 20
 
@@ -185,8 +175,6 @@
 
 # Stack
 
----
-
 ### Day - 24
 
 -   [496. Next Greater Element I](./Day_24/496_nextGreaterElementI.md)
@@ -210,8 +198,6 @@
 ---
 
 # Tree
-
----
 
 ### Day - 27
 
@@ -260,5 +246,3 @@
 ---
 
 # Binary Search Tree
-
----

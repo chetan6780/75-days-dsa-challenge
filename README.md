@@ -258,3 +258,10 @@
 -   [Binary Search Tree | Set 2 (Delete)](https://www.geeksforgeeks.org/binary-search-tree-set-2-delete/)
 -   [Floor and Ceil from a BST](https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/)
 -   [938. Range Sum of BST](./Day_34/938_rangeSumOfBST.md)
+
+### Day - 35
+
+-   [108. Convert Sorted Array to Binary Search Tree](./Day_35/108_convertSortedArrayToBinarySearchTree.md)
+-   [235. Lowest Common Ancestor of a Binary Search Tree](./Day_35/235_lowestCommonAncestorOfABinarySearchTree.md)
+-   [530. Minimum Absolute Difference in BST](./Day_35/530_minimumAbsoluteDifferenceInBST.md)
+-   [98. Validate Binary Search Tree](./Day_35/98_validateBinarySearchTree.md)

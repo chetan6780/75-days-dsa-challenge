@@ -265,3 +265,10 @@
 -   [235. Lowest Common Ancestor of a Binary Search Tree](./Day_35/235_lowestCommonAncestorOfABinarySearchTree.md)
 -   [530. Minimum Absolute Difference in BST](./Day_35/530_minimumAbsoluteDifferenceInBST.md)
 -   [98. Validate Binary Search Tree](./Day_35/98_validateBinarySearchTree.md)
+
+### Day - 36
+
+-   [95. Unique Binary Search Trees II](./Day_36/95_uniqueBinarySearchTreesII.md)
+-   [230. Kth Smallest Element in a BST](./Day_36/230_kthSmallestElementInABST.md)
+-   [96. Unique Binary Search Trees](./Day_36/96_uniqueBinarySearchTrees.md)
+-   [99. Recover Binary Search Tree](./Day_36/99_recoverBinarySearchTree.md)

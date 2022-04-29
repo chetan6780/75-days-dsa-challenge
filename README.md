@@ -272,3 +272,15 @@
 -   [230. Kth Smallest Element in a BST](./Day_36/230_kthSmallestElementInABST.md)
 -   [96. Unique Binary Search Trees](./Day_36/96_uniqueBinarySearchTrees.md)
 -   [99. Recover Binary Search Tree](./Day_36/99_recoverBinarySearchTree.md)
+
+---
+
+# Heap
+
+### Day - 37
+
+-   [Binary Heap](https://www.geeksforgeeks.org/binary-heap/)
+-   [Time Complexity of building a heap](https://www.geeksforgeeks.org/time-complexity-of-building-a-heap/)
+-   [Applications of Heap Data Structure](https://www.geeksforgeeks.org/applications-of-heap-data-structure/)
+-   [HeapSort](https://www.geeksforgeeks.org/heap-sort/)
+-   [Why is Binary Heap Preferred over BST for Priority Queue?](https://www.geeksforgeeks.org/why-is-binary-heap-preferred-over-bst-for-priority-queue/)

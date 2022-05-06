@@ -284,3 +284,10 @@
 -   [Applications of Heap Data Structure](https://www.geeksforgeeks.org/applications-of-heap-data-structure/)
 -   [HeapSort](https://www.geeksforgeeks.org/heap-sort/)
 -   [Why is Binary Heap Preferred over BST for Priority Queue?](https://www.geeksforgeeks.org/why-is-binary-heap-preferred-over-bst-for-priority-queue/)
+
+### Day - 38
+
+-   [merge k sorted array](https://www.geeksforgeeks.org/merge-k-sorted-arrays/)
+-   [nearly sorted algorithm](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
+-   [295. Find Median from Data Stream](./Day_38/295_findMedianFromDataStream.md)
+-   [215. Kth Largest Element in an Array](./Day_38/215_kthLargestElementInAnArray.md)

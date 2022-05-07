@@ -291,3 +291,9 @@
 -   [nearly sorted algorithm](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
 -   [295. Find Median from Data Stream](./Day_38/295_findMedianFromDataStream.md)
 -   [215. Kth Largest Element in an Array](./Day_38/215_kthLargestElementInAnArray.md)
+
+### Day - 39
+
+-   [347. Top K Frequent Elements](./Day_39/347_topKFrequentElements.md)
+-   [218. The Skyline Problem](./Day_39/218_theSkylineProblem.md)
+-   [23. Merge k Sorted Lists](./Day_39/23_mergeKSortedLists.md)

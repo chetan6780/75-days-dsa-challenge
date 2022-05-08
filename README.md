@@ -297,3 +297,15 @@
 -   [347. Top K Frequent Elements](./Day_39/347_topKFrequentElements.md)
 -   [218. The Skyline Problem](./Day_39/218_theSkylineProblem.md)
 -   [23. Merge k Sorted Lists](./Day_39/23_mergeKSortedLists.md)
+
+### Day - 40
+
+---
+
+# Greedy
+
+### Day - 41
+
+-   [N meetings in one room](./Day_41/nMeetingsInOneRoom.md)
+-   [Activity Selection](./Day_41/activitySelection.md)
+-   [Minimum number of Coins](./Day_41/minimumNumberOfCoins.md)

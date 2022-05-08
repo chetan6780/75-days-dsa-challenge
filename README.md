@@ -309,3 +309,9 @@
 -   [N meetings in one room](./Day_41/nMeetingsInOneRoom.md)
 -   [Activity Selection](./Day_41/activitySelection.md)
 -   [Minimum number of Coins](./Day_41/minimumNumberOfCoins.md)
+
+### Day - 42
+
+-   [Fractional Knapsack](./Day_42/fractionalKnapsack.md)
+-   [Minimum Platforms](./Day_42/minimumPlatforms.md)
+-   [Job Sequencing Problem](./Day_42/jobSequencingProblem.md)
